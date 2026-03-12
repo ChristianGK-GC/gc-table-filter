@@ -1,5 +1,7 @@
 # Geocaching Table Filter
 
+![Userscript](https://img.shields.io/badge/Userscript-JavaScript-yellow) ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Compatible-green) ![License](https://img.shields.io/badge/License-GPL%20v3-blue)
+
 A Tampermonkey userscript that adds inline filtering to geocaching.com tables on search results and cache owner dashboard pages.
 
 ---
